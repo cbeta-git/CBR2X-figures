@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y40.0415-5.svg 頁-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="5in" height="1in" viewBox="0 0 360 72" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.25}
+		.st2 {fill:#000000;stroke:#000000;stroke-linecap:butt;stroke-width:2.25}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>頁-1</title>
+		<g id="shape5-1" transform="translate(74.25,-36)">
+			<title>工作表.5</title>
+			<path d="M33.75 38.25 C15.11 38.25 0 53.36 0 72 L67.5 72 C67.5 53.36 52.39 38.25 33.75 38.25 Z" class="st1"/>
+		</g>
+		<g id="shape6-3" transform="translate(74.25,-2.25)">
+			<title>工作表.6</title>
+			<path d="M0 38.25 C0 56.89 15.11 72 33.75 72 C52.39 72 67.5 56.89 67.5 38.25 L0 38.25 Z" class="st2"/>
+		</g>
+		<g id="shape8-5" transform="translate(2.25,-36)">
+			<title>工作表.8</title>
+			<path d="M33.75 38.25 C15.11 38.25 0 53.36 0 72 L67.5 72 C67.5 53.36 52.39 38.25 33.75 38.25 Z" class="st2"/>
+		</g>
+		<g id="shape9-7" transform="translate(2.25,-2.25)">
+			<title>工作表.9</title>
+			<path d="M0 38.25 C0 56.89 15.11 72 33.75 72 C52.39 72 67.5 56.89 67.5 38.25 L0 38.25 Z" class="st1"/>
+		</g>
+		<g id="shape11-9" transform="translate(146.25,-2.25)">
+			<title>工作表.11</title>
+			<ellipse cx="33.75" cy="38.25" rx="33.75" ry="33.75" class="st1"/>
+		</g>
+		<g id="shape12-11" transform="translate(161.25,-17.25)">
+			<title>工作表.12</title>
+			<ellipse cx="18.75" cy="53.25" rx="18.75" ry="18.75" class="st2"/>
+		</g>
+		<g id="shape14-13" transform="translate(218.25,-2.25)">
+			<title>工作表.14</title>
+			<ellipse cx="33.75" cy="38.25" rx="33.75" ry="33.75" class="st1"/>
+		</g>
+		<g id="shape16-15" transform="translate(290.25,-2.25)">
+			<title>工作表.16</title>
+			<ellipse cx="33.75" cy="38.25" rx="33.75" ry="33.75" class="st2"/>
+		</g>
+	</g>
+</svg>

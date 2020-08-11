@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y14.0042.svg 頁-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="1.96965in" height="1.96965in" viewBox="0 0 141.815 141.815" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st4">
+	
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#e8eef7;fill-opacity:0;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st2 {fill:#000000;font-family:新細明體;font-size:12pt}
+		.st3 {font-size:1em}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>頁-1</title>
+		<g id="group4-1" transform="translate(0.75,-0.75)">
+			<title>工作表.4</title>
+			<g id="shape1-2" transform="translate(43.2283,-43.2283)">
+				<title>圓形</title>
+				<desc>神天 貪忿</desc>
+				<path d="M0 114.89 A26.9291 26.9291 0 0 1 53.86 114.89 A26.9291 26.9291 0 1 1 0 114.89 Z" class="st1"/>
+				<text x="36.53" y="98.89" writing-mode="tb-rl" class="st2">神天 <tspan dx="-1.2em" y="6.18em 7.18em" class="st3">貪忿</tspan></text>			</g>
+			<g id="shape2-6">
+				<title>圓形.2</title>
+				<desc>出家 解脫</desc>
+				<path d="M0 71.66 A70.1575 70.1575 0 1 1 140.31 71.66 A70.1575 70.1575 0 0 1 -0 71.66 Z" class="st1"/>
+				<text x="127.76" y="55.66" writing-mode="tb-rl" class="st2">出家      <tspan dx="-7.2em" y="3.479em 4.479em"
+							class="st3">解脫</tspan></text>			</g>
+			<g id="shape3-10" transform="translate(20.5512,-20.5512)">
+				<title>圓形.3</title>
+				<desc>在家 慈悲</desc>
+				<path d="M0 92.21 A49.6063 49.6063 0 0 1 99.21 92.21 A49.6063 49.6063 0 1 1 0 92.21 Z" class="st1"/>
+				<text x="88.01" y="76.21" writing-mode="tb-rl" class="st2">在家    <tspan dx="-4.8em" y="4.763em 5.763em" class="st3">慈悲</tspan></text>			</g>
+		</g>
+	</g>
+</svg>

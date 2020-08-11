@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y08.0052.svg 頁-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="1.58962in" height="1.40464in" viewBox="0 0 114.452 101.134" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st4">
+	
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st2 {fill:#000000;font-family:新細明體;font-size:12pt}
+		.st3 {fill:#e8eef7;fill-opacity:0;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>頁-1</title>
+		<g id="group18-1" transform="translate(0.36,-0.36)">
+			<title>工作表.18</title>
+			<g id="shape2-2" transform="translate(71.0394,-39.4016)">
+				<title>工作表.2</title>
+				<desc>畜生</desc>
+				<rect x="0" y="81.2914" width="42.6929" height="19.8425" class="st1"/>
+				<text x="5.35" y="96.2" class="st2">畜生</text>			</g>
+			<g id="shape3-5" transform="translate(0,-39.4016)">
+				<title>工作表.3</title>
+				<desc>餓鬼</desc>
+				<rect x="0" y="81.2914" width="42.6929" height="19.8425" class="st1"/>
+				<text x="5.35" y="96.2" class="st2">餓鬼</text>			</g>
+			<g id="shape4-8" transform="translate(35.5197,-5.68434E-14)">
+				<title>工作表.4</title>
+				<desc>地獄</desc>
+				<rect x="0" y="81.2914" width="42.6929" height="19.8425" class="st1"/>
+				<text x="5.35" y="96.2" class="st2">地獄</text>			</g>
+			<g id="shape10-11" transform="translate(3.00787,-0.734127)">
+				<title>工作表.10</title>
+				<path d="M28.35 2.94 A56.6929 56.6929 -180 0 0 -0 52.04 A56.6929 56.6929 -180 0 0 28.35 101.13 A56.6929 56.6929 0
+							 0 1 28.35 2.94 Z" class="st3"/>
+			</g>
+			<g id="shape8-13" transform="translate(82.378,-0.734127)">
+				<title>工作表.8</title>
+				<path d="M0 101.13 A56.6929 56.6929 -180 0 0 28.35 52.04 A56.6929 56.6929 -180 0 0 0 2.94 A56.6929 56.6929 0 0 1
+							 0 101.13 Z" class="st3"/>
+			</g>
+			<g id="shape11-15" transform="translate(73.874,-0.225331)">
+				<title>工作表.11</title>
+				<path d="M28.35 2.94 A56.6929 56.6929 -180 0 0 -0 52.04 A56.6929 56.6929 -180 0 0 28.35 101.13 A56.6929 56.6929 0
+							 0 1 28.35 2.94 Z" class="st3"/>
+			</g>
+			<g id="shape12-17" transform="translate(11.5118,-0.734127)">
+				<title>工作表.12</title>
+				<path d="M0 101.13 A56.6929 56.6929 -180 0 0 28.35 52.04 A56.6929 56.6929 -180 0 0 0 2.94 A56.6929 56.6929 0 0 1
+							 0 101.13 Z" class="st3"/>
+			</g>
+			<g id="shape13-19" transform="translate(4.82969,33.3859) rotate(-90)">
+				<title>工作表.13</title>
+				<path d="M28.35 2.94 A56.6929 56.6929 -180 0 0 -0 52.04 A56.6929 56.6929 -180 0 0 28.35 101.13 A56.6929 56.6929 0
+							 0 1 28.35 2.94 Z" class="st3"/>
+			</g>
+			<g id="shape14-21" transform="translate(4.82969,98.5828) rotate(-90)">
+				<title>工作表.14</title>
+				<path d="M0 101.13 A56.6929 56.6929 -180 0 0 28.35 52.04 A56.6929 56.6929 -180 0 0 0 2.94 A56.6929 56.6929 0 0 1
+							 0 101.13 Z" class="st3"/>
+			</g>
+			<g id="shape16-23" transform="translate(35.4038,-39.4016)">
+				<title>工作表.16</title>
+				<desc>人</desc>
+				<rect x="0" y="81.2914" width="42.6929" height="19.8425" class="st1"/>
+				<text x="13.35" y="96.2" class="st2">人</text>			</g>
+			<g id="shape17-26" transform="translate(35.0664,-80.5714)">
+				<title>工作表.17</title>
+				<desc>天</desc>
+				<rect x="0" y="81.2914" width="42.6929" height="19.8425" class="st1"/>
+				<text x="13.35" y="96.2" class="st2">天</text>			</g>
+		</g>
+	</g>
+</svg>

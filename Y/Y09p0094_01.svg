@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y09.0094.svg 頁-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="3.44186in" height="3.36969in" viewBox="0 0 247.814 242.618" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st8">
+	
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st2 {fill:#000000;font-family:新細明體;font-size:1.99999em;font-weight:bold}
+		.st3 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2}
+		.st4 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2}
+		.st5 {fill:#000000;font-family:新細明體;font-size:12pt;font-weight:bold}
+		.st6 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2}
+		.st7 {stroke:#000000;stroke-dasharray:10.5,7.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st8 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>頁-1</title>
+		<g id="group25-1" transform="translate(0.6,-0.36)">
+			<title>工作表.25</title>
+			<g id="shape1-2" transform="translate(101.071,-198.425)">
+				<title>工作表.1</title>
+				<desc>生</desc>
+				<rect x="0" y="199.145" width="42.5197" height="43.4724" class="st1"/>
+				<text x="9.25" y="228.39" class="st2">生</text>			</g>
+			<g id="shape2-5" transform="translate(101.071,0)">
+				<title>工作表.2</title>
+				<desc>滅</desc>
+				<rect x="0" y="199.145" width="42.5197" height="43.4724" class="st1"/>
+				<text x="9.25" y="228.39" class="st2">滅</text>			</g>
+			<g id="shape3-8" transform="translate(3.59712E-14,-96.8543)">
+				<title>圓形</title>
+				<desc>有</desc>
+				<path d="M0 218.52 A24.0945 24.0945 0 0 1 48.19 218.52 A24.0945 24.0945 0 0 1 0 218.52 Z" class="st3"/>
+				<text x="12.08" y="225.72" class="st2">有</text>			</g>
+			<g id="shape4-11" transform="translate(198.425,-96.8543)">
+				<title>圓形.4</title>
+				<desc>無</desc>
+				<path d="M0 218.52 A24.0945 24.0945 0 0 1 48.19 218.52 A24.0945 24.0945 0 0 1 0 218.52 Z" class="st3"/>
+				<text x="12.08" y="225.72" class="st2">無</text>			</g>
+			<g id="shape6-14" transform="translate(55.7165,-141.851)">
+				<title>工作表.6</title>
+				<desc>依緣相</desc>
+				<rect x="0" y="186.389" width="19.8425" height="56.2283" class="st4"/>
+				<text x="9.92" y="190.95" writing-mode="tb-rl" class="st5">依緣相</text>			</g>
+			<g id="shape7-17" transform="translate(169.102,-141.851)">
+				<title>工作表.7</title>
+				<desc>來去相</desc>
+				<rect x="0" y="186.389" width="19.8425" height="56.2283" class="st4"/>
+				<text x="9.92" y="190.95" writing-mode="tb-rl" class="st5">來去相</text>			</g>
+			<g id="shape8-20" transform="translate(112.409,-141.851)">
+				<title>工作表.8</title>
+				<desc>似續相</desc>
+				<rect x="0" y="186.389" width="19.8425" height="56.2283" class="st4"/>
+				<text x="9.92" y="190.95" writing-mode="tb-rl" class="st5">似續相</text>			</g>
+			<g id="shape10-23" transform="translate(169.102,-43.8179)">
+				<title>工作表.10</title>
+				<desc>運動</desc>
+				<rect x="0" y="201.277" width="19.8425" height="41.3406" class="st4"/>
+				<text x="9.92" y="206.24" writing-mode="tb-rl" class="st5">運動</text>			</g>
+			<g id="shape9-26" transform="translate(112.409,-43.8179)">
+				<title>工作表.9</title>
+				<desc>時間</desc>
+				<rect x="0" y="201.277" width="19.8425" height="41.3406" class="st4"/>
+				<text x="9.92" y="206.24" writing-mode="tb-rl" class="st5">時間</text>			</g>
+			<g id="shape11-29" transform="translate(55.7165,-43.8179)">
+				<title>工作表.11</title>
+				<desc>空間</desc>
+				<rect x="0" y="201.277" width="19.8425" height="41.3406" class="st4"/>
+				<text x="9.92" y="206.24" writing-mode="tb-rl" class="st5">空間</text>			</g>
+			<g id="shape12-32" transform="translate(424.476,100.766) rotate(90)">
+				<title>工作表.12</title>
+				<path d="M0 242.62 L56.69 242.62" class="st6"/>
+			</g>
+			<g id="shape13-35" transform="translate(367.783,100.766) rotate(90)">
+				<title>工作表.13</title>
+				<path d="M0 242.62 L56.69 242.62" class="st6"/>
+			</g>
+			<g id="shape14-38" transform="translate(311.09,100.766) rotate(90)">
+				<title>工作表.14</title>
+				<path d="M0 242.62 L56.69 242.62" class="st6"/>
+			</g>
+			<g id="shape15-41" transform="translate(353.415,272.323) rotate(135)">
+				<title>工作表.15</title>
+				<path d="M0 242.62 L80.18 242.62" class="st6"/>
+			</g>
+			<g id="shape16-44" transform="translate(290.36,317.77) rotate(153.435)">
+				<title>工作表.16</title>
+				<path d="M0 242.62 L126.77 242.62" class="st6"/>
+			</g>
+			<g id="shape17-47" transform="translate(296.722,-70.7903) rotate(45)">
+				<title>工作表.17</title>
+				<path d="M0 242.62 L80.18 242.62" class="st6"/>
+			</g>
+			<g id="shape18-50" transform="translate(296.722,272.323) rotate(135)">
+				<title>工作表.18</title>
+				<path d="M0 242.62 L80.18 242.62" class="st6"/>
+			</g>
+			<g id="shape19-53" transform="translate(240.029,-70.7903) rotate(45)">
+				<title>工作表.19</title>
+				<path d="M0 242.62 L80.18 242.62" class="st6"/>
+			</g>
+			<g id="shape20-56" transform="translate(176.974,-116.238) rotate(26.5651)">
+				<title>工作表.20</title>
+				<path d="M0 242.62 L126.77 242.62" class="st6"/>
+			</g>
+			<g id="shape21-59" transform="translate(-133.58,-86.8226) rotate(-40.5331)">
+				<title>工作表.21</title>
+				<path d="M-0 242.62 A83.691 59.5215 164.59 0 1 114.47 242.62" class="st7"/>
+			</g>
+			<g id="shape22-62" transform="translate(297.76,-159.397) rotate(41.3478)">
+				<title>工作表.22</title>
+				<path d="M0 242.62 A82.4682 55.0149 167.33 0 1 113.28 242.62" class="st7"/>
+			</g>
+			<g id="shape23-65" transform="translate(-67.6598,394.226) rotate(-136.081)">
+				<title>工作表.23</title>
+				<path d="M-0 242.62 A77.067 47.0703 169.85 0 1 106.25 242.62" class="st7"/>
+			</g>
+			<g id="shape24-68" transform="translate(388.597,322.629) rotate(136.802)">
+				<title>工作表.24</title>
+				<path d="M0 242.62 A79.1276 59.2119 161.36 0 1 107.67 242.62" class="st7"/>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y14.0040.svg 頁-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="1.40124in" height="1.39091in" viewBox="0 0 100.89 100.146" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st6">
+	
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st2 {fill:#000000;font-family:新細明體;font-size:12pt}
+		.st3 {font-size:1em}
+		.st4 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st5 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>頁-1</title>
+		<g id="group22-1" transform="translate(0.36,-0.75)">
+			<title>工作表.22</title>
+			<g id="shape3-2" transform="translate(1.13386,0)">
+				<title>圓形.3</title>
+				<path d="M0 50.82 A49.3228 49.3228 0 1 1 98.65 50.82 A49.3228 49.3228 0 0 1 0 50.82 Z" class="st1"/>
+			</g>
+			<g id="shape19-4" transform="translate(23.6693,-22.3937)">
+				<title>圓形.19</title>
+				<desc>在家 慈悲</desc>
+				<path d="M0 73.36 A26.7874 26.7874 0 0 1 53.57 73.36 A26.7874 26.7874 0 1 1 0 73.36 Z" class="st1"/>
+				<text x="36.39" y="57.36" writing-mode="tb-rl" class="st2">在家 <tspan dx="-1.2em" y="3.585em 4.585em" class="st3">慈悲</tspan></text>			</g>
+			<g id="shape12-8" transform="translate(3.76632,135.526) rotate(45) scale(1,-1)">
+				<title>工作表.12</title>
+				<desc>脫</desc>
+				<rect x="0" y="79.1693" width="23.6111" height="20.9764" class="st4"/>
+				<text x="4" y="-84.67" transform="scale(1,-1)" class="st2">脫</text>			</g>
+			<g id="shape13-11" transform="translate(50.8176,146.139) rotate(15) scale(1,-1)">
+				<title>工作表.13</title>
+				<desc>解</desc>
+				<rect x="0" y="80.0321" width="21.4055" height="20.1136" class="st4"/>
+				<text x="4" y="-85.11" transform="scale(1,-1)" class="st2">解</text>			</g>
+			<g id="shape16-14" transform="translate(96.8,135.526) rotate(135)">
+				<title>工作表.16</title>
+				<desc>持</desc>
+				<rect x="0" y="79.1693" width="23.6111" height="20.9764" class="st4"/>
+				<text x="-19.61" y="-84.67" transform="rotate(180)" class="st2">持</text>			</g>
+			<g id="shape20-17" transform="translate(46.7926,146.682) rotate(165)">
+				<title>工作表.20</title>
+				<desc>護</desc>
+				<rect x="0" y="80.0321" width="21.4055" height="20.1136" class="st4"/>
+				<text x="-17.41" y="-85.11" transform="rotate(-180)" class="st2">護</text>			</g>
+			<g id="shape5-20" transform="translate(150.602,1.5) rotate(90)">
+				<title>工作表.5</title>
+				<path d="M0 100.15 L22.68 100.15" class="st5"/>
+			</g>
+			<g id="shape6-23" transform="translate(150.602,77.752) rotate(90)">
+				<title>工作表.6</title>
+				<path d="M0 100.15 L22.39 100.15" class="st5"/>
+			</g>
+			<g id="shape21-26" transform="translate(9.57678,-38.1304) rotate(-40)">
+				<title>工作表.21</title>
+				<desc>出</desc>
+				<rect x="0" y="80.1457" width="21.878" height="20" class="st4"/>
+				<text x="4" y="95.13" class="st2">出</text>			</g>
+			<g id="shape17-29" transform="translate(51.5936,-42.1893) rotate(-15)">
+				<title>工作表.17</title>
+				<desc>家</desc>
+				<rect x="0" y="80.1457" width="21.878" height="20" class="st4"/>
+				<text x="4" y="95.13" class="st2">家</text>			</g>
+			<g id="shape18-32" transform="translate(57.7096,-59.6442) rotate(30)">
+				<title>工作表.18</title>
+				<desc>天</desc>
+				<rect x="0" y="80.1457" width="21.878" height="20" class="st4"/>
+				<text x="4" y="95.13" class="st2">天</text>			</g>
+			<g id="shape14-35" transform="translate(25.9196,-47.8518) rotate(15)">
+				<title>工作表.14</title>
+				<desc>神</desc>
+				<rect x="0" y="80.1457" width="21.878" height="20" class="st4"/>
+				<text x="4" y="95.13" class="st2">神</text>			</g>
+		</g>
+	</g>
+</svg>

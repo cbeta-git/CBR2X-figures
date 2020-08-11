@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y28.0076.svg 頁-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="2.64821in" height="6.39624in" viewBox="0 0 190.671 460.53" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st9">
+	<style type="text/css">
+	<![CDATA[
+		.st1 {marker-end:url(#mrkr5-7);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st2 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.37313432835821}
+		.st3 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st4 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:#000000;font-family:新細明體;font-size:12pt}
+		.st6 {fill:#e8eef7;fill-opacity:0;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st7 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st8 {marker-start:url(#mrkr5-127);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st9 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend5">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364515 1.67301 0.372641 1.98465 1.00043 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr5-7" class="st2" refX="-4.69" orient="auto" markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-2.68,-2.68) "/>
+		</marker>
+		<marker id="mrkr5-127" class="st2" refX="4.45" orient="auto" markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(2.68) "/>
+		</marker>
+	</defs>
+	<g>
+		<title>頁-1</title>
+		<g id="group63-1" transform="translate(0.375,-0.375)">
+			<title>工作表.63</title>
+			<g id="shape4-2" transform="translate(63.954,-229.89) rotate(0.0217029)">
+				<title>工作表.4</title>
+				<path d="M0 460.53 L55.33 460.53" class="st1"/>
+			</g>
+			<g id="shape1-8" transform="translate(92.126,-290.906)">
+				<title>三角形</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape2-10" transform="translate(95.5276,-285.094)">
+				<title>三角形.2</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape3-12" transform="translate(88.7244,-285.094)">
+				<title>三角形.3</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape6-14" transform="translate(102.331,-273.472)">
+				<title>三角形.6</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape7-16" transform="translate(98.9291,-279.283)">
+				<title>三角形.7</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape8-18" transform="translate(105.732,-267.661)">
+				<title>三角形.8</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape9-20" transform="translate(109.134,-261.85)">
+				<title>三角形.9</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape10-22" transform="translate(112.535,-256.039)">
+				<title>三角形.10</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape11-24" transform="translate(115.937,-250.228)">
+				<title>三角形.11</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape12-26" transform="translate(119.339,-244.417)">
+				<title>三角形.12</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape13-28" transform="translate(122.74,-238.606)">
+				<title>三角形.13</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape14-30" transform="translate(126.142,-232.795)">
+				<title>三角形.14</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape15-32" transform="translate(85.3228,-279.283)">
+				<title>三角形.15</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape16-34" transform="translate(81.9213,-273.472)">
+				<title>三角形.16</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape17-36" transform="translate(75.1181,-261.85)">
+				<title>三角形.17</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape18-38" transform="translate(78.5197,-267.661)">
+				<title>三角形.18</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape19-40" transform="translate(71.7165,-256.039)">
+				<title>三角形.19</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape20-42" transform="translate(68.315,-250.228)">
+				<title>三角形.20</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape21-44" transform="translate(64.9134,-244.417)">
+				<title>三角形.21</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape22-46" transform="translate(61.5118,-238.606)">
+				<title>三角形.22</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape23-48" transform="translate(58.1102,-232.795)">
+				<title>三角形.23</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape24-50" transform="translate(97.7953,754.406) rotate(180)">
+				<title>三角形.24</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape27-52" transform="translate(95.5276,-169.016)">
+				<title>三角形.27</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape28-54" transform="translate(88.7244,-169.016)">
+				<title>三角形.28</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape29-56" transform="translate(102.331,-180.638)">
+				<title>三角形.29</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape30-58" transform="translate(98.9291,-174.827)">
+				<title>三角形.30</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape31-60" transform="translate(105.732,-186.449)">
+				<title>三角形.31</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape32-62" transform="translate(109.134,-192.26)">
+				<title>三角形.32</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape33-64" transform="translate(112.535,-198.071)">
+				<title>三角形.33</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape34-66" transform="translate(115.937,-203.882)">
+				<title>三角形.34</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape35-68" transform="translate(119.339,-209.693)">
+				<title>三角形.35</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape36-70" transform="translate(122.74,-215.504)">
+				<title>三角形.36</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape37-72" transform="translate(126.142,-221.315)">
+				<title>三角形.37</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape38-74" transform="translate(85.3228,-174.827)">
+				<title>三角形.38</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape39-76" transform="translate(81.9213,-180.638)">
+				<title>三角形.39</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape40-78" transform="translate(75.1181,-192.26)">
+				<title>三角形.40</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape41-80" transform="translate(78.5197,-186.449)">
+				<title>三角形.41</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape42-82" transform="translate(71.7165,-198.071)">
+				<title>三角形.42</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape43-84" transform="translate(68.315,-203.882)">
+				<title>三角形.43</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape44-86" transform="translate(64.9134,-209.693)">
+				<title>三角形.44</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape45-88" transform="translate(61.5118,-215.504)">
+				<title>三角形.45</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="shape46-90" transform="translate(58.1102,-221.315)">
+				<title>三角形.46</title>
+				<path d="M6.11 460.53 L2.83 454.86 L-0.44 460.53 L6.11 460.53 Z" class="st3"/>
+			</g>
+			<g id="group48-92" transform="translate(82.7717,-299.409)">
+				<title>工作表.48</title>
+				<g id="shape25-93">
+					<title>工作表.25</title>
+					<desc>聖</desc>
+					<rect x="0" y="436.152" width="24.378" height="24.378" class="st4"/>
+					<text x="4.19" y="453.14" class="st5">聖</text>				</g>
+				<g id="shape47-96" transform="translate(0.850394,-0.850394)">
+					<title>圓形</title>
+					<path d="M0 449.19 A11.3386 11.3386 0 0 1 22.68 449.19 A11.3386 11.3386 0 1 1 0 449.19 Z" class="st6"/>
+				</g>
+			</g>
+			<g id="group49-98" transform="translate(82.7717,-133.299)">
+				<title>工作表.49</title>
+				<g id="shape50-99">
+					<title>工作表.50</title>
+					<desc>凡</desc>
+					<rect x="0" y="436.152" width="24.378" height="24.378" class="st4"/>
+					<text x="4.19" y="453.14" class="st5">凡</text>				</g>
+				<g id="shape51-102" transform="translate(0.850394,-0.850394)">
+					<title>圓形</title>
+					<path d="M0 449.19 A11.3386 11.3386 0 0 1 22.68 449.19 A11.3386 11.3386 0 1 1 0 449.19 Z" class="st6"/>
+				</g>
+			</g>
+			<g id="shape52-104" transform="translate(85.0394,-201.827)">
+				<title>工作表.52</title>
+				<desc>無我</desc>
+				<rect x="0" y="404.404" width="19.8425" height="56.126" class="st4"/>
+				<text x="9.92" y="25.525em 27.533em" writing-mode="tb-rl" class="st5">無我</text>			</g>
+			<g id="shape53-107" transform="translate(94.9606,-229.89)">
+				<title>方形</title>
+			</g>
+			<g id="shape55-108" transform="translate(170.079,-371.622)">
+				<title>工作表.55</title>
+				<desc>常正</desc>
+				<rect x="0" y="388.53" width="19.8425" height="72" class="st4"/>
+				<text x="9.92" y="392.53" writing-mode="tb-rl" class="st5">常（正）</text>			</g>
+			<g id="shape57-111" transform="translate(-304.211,82.4273) rotate(-71.2241)">
+				<title>工作表.57</title>
+				<path d="M0 460.53 L142.68 460.53" class="st1"/>
+			</g>
+			<g id="shape58-116" transform="translate(567.88,82.3836) rotate(71.2423)">
+				<title>工作表.58</title>
+				<path d="M0 460.53 L149.86 460.53" class="st7"/>
+			</g>
+			<g id="shape59-119" transform="translate(-377.912,378.887) rotate(-108.776)">
+				<title>工作表.59</title>
+				<path d="M0 460.53 L149.72 460.53" class="st7"/>
+			</g>
+			<g id="shape60-122" transform="translate(494.059,379.298) rotate(108.804)">
+				<title>工作表.60</title>
+				<path d="M6.67 460.53 L7.03 460.53 L149.5 460.53" class="st8"/>
+			</g>
+			<g id="shape26-128" transform="translate(170.079,-16.1575)">
+				<title>工作表.26</title>
+				<desc>常倒</desc>
+				<rect x="0" y="388.53" width="19.8425" height="72" class="st4"/>
+				<text x="9.92" y="392.53" writing-mode="tb-rl" class="st5">常（倒）</text>			</g>
+			<g id="shape61-131" transform="translate(0,-371.622)">
+				<title>工作表.61</title>
+				<desc>無常倒</desc>
+				<rect x="0" y="372.372" width="19.8425" height="88.1575" class="st4"/>
+				<text x="9.92" y="376.45" writing-mode="tb-rl" class="st5">無常（倒）</text>			</g>
+			<g id="shape62-134">
+				<title>工作表.62</title>
+				<desc>無常正</desc>
+				<rect x="0" y="372.372" width="19.8425" height="88.1575" class="st4"/>
+				<text x="9.92" y="376.45" writing-mode="tb-rl" class="st5">無常（正）</text>			</g>
+		</g>
+	</g>
+</svg>

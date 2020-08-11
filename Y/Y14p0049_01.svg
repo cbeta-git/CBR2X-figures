@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y14.0049.svg 頁-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="2.59139in" height="2.25409in" viewBox="0 0 186.58 162.295" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st5">
+	
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st2 {fill:#000000;font-family:新細明體;font-size:12pt}
+		.st3 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st4 {stroke:#000000;stroke-dasharray:5.04,3.6;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>頁-1</title>
+		<g id="group17-1" transform="translate(0.36,-0.36)">
+			<title>工作表.17</title>
+			<g id="shape1-2" transform="translate(127.577,-113.386)">
+				<title>工作表.1</title>
+				<desc>人乘法</desc>
+				<rect x="0" y="142.452" width="58.2835" height="19.8425" class="st1"/>
+				<text x="5.14" y="157.36" class="st2">人乘法</text>			</g>
+			<g id="shape2-5" transform="translate(127.577,-28.3465)">
+				<title>工作表.2</title>
+				<desc>天乘法</desc>
+				<rect x="0" y="142.452" width="58.2835" height="19.8425" class="st1"/>
+				<text x="5.14" y="157.36" class="st2">天乘法</text>			</g>
+			<g id="shape3-8" transform="translate(0,-141.732)">
+				<title>工作表.3</title>
+				<desc>祭祀</desc>
+				<rect x="0" y="142.452" width="43.315" height="19.8425" class="st1"/>
+				<text x="5.66" y="157.36" class="st2">祭祀</text>			</g>
+			<g id="shape4-11" transform="translate(1.31894E-13,-113.386)">
+				<title>工作表.4</title>
+				<desc>咒術</desc>
+				<rect x="0" y="142.452" width="43.315" height="19.8425" class="st1"/>
+				<text x="5.66" y="157.36" class="st2">咒術</text>			</g>
+			<g id="shape5-14" transform="translate(0.586614,-85.0394)">
+				<title>工作表.5</title>
+				<desc>德行</desc>
+				<rect x="0" y="142.452" width="43.315" height="19.8425" class="st1"/>
+				<text x="5.66" y="157.36" class="st2">德行</text>			</g>
+			<g id="shape6-17" transform="translate(0.586614,-56.6929)">
+				<title>工作表.6</title>
+				<desc>苦行</desc>
+				<rect x="0" y="142.452" width="43.315" height="19.8425" class="st1"/>
+				<text x="5.66" y="157.36" class="st2">苦行</text>			</g>
+			<g id="shape7-20" transform="translate(0.586614,-28.3465)">
+				<title>工作表.7</title>
+				<desc>瑜伽</desc>
+				<rect x="0" y="142.452" width="43.315" height="19.8425" class="st1"/>
+				<text x="5.66" y="157.36" class="st2">瑜伽</text>			</g>
+			<g id="shape8-23" transform="translate(0.586614,0)">
+				<title>工作表.8</title>
+				<desc>遁世</desc>
+				<rect x="0" y="142.452" width="43.315" height="19.8425" class="st1"/>
+				<text x="5.66" y="157.36" class="st2">遁世</text>			</g>
+			<g id="shape9-26" transform="translate(-8.11149,-86.6322) rotate(-18.4349)">
+				<title>工作表.9</title>
+				<path d="M0 162.29 L89.64 162.29" class="st3"/>
+			</g>
+			<g id="shape10-29" transform="translate(133.236,-67.7033) rotate(33.6901)">
+				<title>工作表.10</title>
+				<path d="M0 162.29 L102.2 162.29" class="st3"/>
+			</g>
+			<g id="shape11-32" transform="translate(43.2106,-38.2677)">
+				<title>工作表.11</title>
+				<path d="M0 162.29 L85.04 162.29" class="st3"/>
+			</g>
+			<g id="shape12-35" transform="translate(93.6294,-143.43) rotate(18.3171)">
+				<title>工作表.12</title>
+				<path d="M0 162.29 L90.2 162.29" class="st4"/>
+			</g>
+			<g id="shape13-38" transform="translate(-46.8143,-39.3568) rotate(-33.6901)">
+				<title>工作表.13</title>
+				<path d="M0 162.29 L102.2 162.29" class="st4"/>
+			</g>
+			<g id="shape14-41" transform="translate(-8.11149,-1.59283) rotate(-18.4349)">
+				<title>工作表.14</title>
+				<path d="M0 162.29 L89.64 162.29" class="st4"/>
+			</g>
+			<g id="shape15-44" transform="translate(94.5328,-58.2857) rotate(18.4349)">
+				<title>工作表.15</title>
+				<path d="M0 162.29 L89.64 162.29" class="st4"/>
+			</g>
+		</g>
+	</g>
+</svg>

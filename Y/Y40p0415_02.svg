@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y40.0415-6.svg 頁-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.958333in" height="0.958333in" viewBox="0 0 69 69" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st3">
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:#000000;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:0.75}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>頁-1</title>
+		<g id="group9-1" transform="translate(0.75,-0.75)">
+			<title>工作表.9</title>
+			<g id="shape2-2">
+				<title>工作表.2</title>
+				<path d="M11.25 35.25 C11.25 22.82 21.32 12.75 33.75 12.75 L33.75 1.5 C15.11 1.5 0 16.61 0 35.25 C0 53.89 15.11 69
+							 33.75 69 L33.75 57.75 C21.32 57.75 11.25 47.68 11.25 35.25 Z" class="st1"/>
+			</g>
+			<g id="shape3-4" transform="translate(33.75,0)">
+				<title>工作表.3</title>
+				<path d="M0 1.5 L0 12.75 C12.43 12.75 22.5 22.82 22.5 35.25 C22.5 47.68 12.43 57.75 0 57.75 L0 69 C18.64 69 33.75
+							 53.89 33.75 35.25 C33.75 16.61 18.64 1.5 0 1.5 Z" class="st2"/>
+			</g>
+			<g id="shape4-6" transform="translate(33.75,-11.25)">
+				<title>工作表.4</title>
+				<path d="M11.25 46.5 C11.25 52.71 6.21 57.75 0 57.75 L0 69 C12.43 69 22.5 58.93 22.5 46.5 C22.5 34.07 12.43 24 0
+							 24 L0 35.25 C6.21 35.25 11.25 40.29 11.25 46.5 Z" class="st1"/>
+			</g>
+			<g id="shape5-8" transform="translate(11.25,-11.25)">
+				<title>工作表.5</title>
+				<path d="M0 46.5 C0 58.93 10.07 69 22.5 69 L22.5 57.75 C16.29 57.75 11.25 52.71 11.25 46.5 C11.25 40.29 16.29 35.25
+							 22.5 35.25 L22.5 24 C10.07 24 0 34.07 0 46.5 Z" class="st2"/>
+			</g>
+			<g id="shape6-10" transform="translate(22.5,-22.5)">
+				<title>工作表.6</title>
+				<path d="M0 57.75 C0 63.96 5.04 69 11.25 69 L11.25 46.5 C5.04 46.5 0 51.54 0 57.75 Z" class="st1"/>
+			</g>
+			<g id="shape7-12" transform="translate(33.75,-22.5)">
+				<title>工作表.7</title>
+				<path d="M11.25 57.75 C11.25 51.54 6.21 46.5 0 46.5 L0 69 C6.21 69 11.25 63.96 11.25 57.75 Z" class="st2"/>
+			</g>
+		</g>
+	</g>
+</svg>
